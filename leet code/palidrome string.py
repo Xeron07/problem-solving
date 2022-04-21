@@ -6,6 +6,7 @@ def plaidromWord(list):
                 flag = False
                 break
         if flag: return word
+
     return ""
 
 
