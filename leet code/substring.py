@@ -15,4 +15,9 @@ def maxSubStr(str):
     return maxLength
 
 
+
+def secondApproach(str):
+
+
+
 print(maxSubStr(strI))
